@@ -6,15 +6,11 @@
         "build": "webpack --mode=production"
     },
     "dependencies": {
-<<<<<<< HEAD
         "ts-loader": "^9.2.8",
         "typescript": "^4.6.3",
         "webpack": "^5.36.2"
     },
     "devDependencies": {
-=======
-        "webpack": "^5.71.0",
->>>>>>> main
         "webpack-cli": "^4.9.2"
     }
 }
